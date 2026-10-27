@@ -5,7 +5,12 @@
  "yomi": "ろっぴゃくばんうたあわせ",
  "category": "歌合",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "建久4年（1193）",
+  "author": "藤原良経 主催、藤原俊成 判",
+  "desc": "良経家で十二人が百首ずつ詠み、六百番に番えた歌合。俊成の判詞は歌論としても重んじられる。"
+ },
  "editions": [
   {
    "pid": "nijl-200007334",
@@ -26816,6 +26821,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 1057,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "roppyakuban-utaawase",
   "work": "六百番歌合",
