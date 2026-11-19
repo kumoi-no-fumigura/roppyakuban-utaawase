@@ -1,6 +1,6 @@
 name: 訳の誤り
 description: 現代語訳の誤りや、よりよい訳を知らせる
-title: "[訳] 六百番歌合 "
+title: "[訳] 六百番歌合（左大将家百首歌合 底本） "
 labels: ["訳"]
 body:
   - type: input
